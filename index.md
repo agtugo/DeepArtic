@@ -18,29 +18,5 @@ Docker with linux is not working. Period. The end. Just jocking it is not workin
 Ok When we test, when we code in general the target platform is the same than the machine used to develop. Almost all the servers are x86. So, what are the options? cross-compilation? emulation? Or maybe we are going to see a tendency for arm severs. Anyway alot of code nowadays is for virtual machines and interpreters, so maybe there won't be a lot of changes in that sense but I really believe what Torvalds said about why we don't have arm servers (the reason I explained). So we'll see. 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+print("Bye world")
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agtugo/DeepArtic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
