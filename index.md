@@ -1,10 +1,12 @@
 ## About this 
 
-This is a simple but efficient blog to communicate my ideas. 
+Follow me on twitter: @DeepArtic. This is a simple but efficient blog to communicate my ideas. 
 
 ## My thoughts about the new M1 Macs
 
-The machines have been released and also the expectations are finally settling or maybe just adjusting. The benchmarks using cinebench are putting this machine in a very interesting place, the single thread is fantastic and the multithread is great for a machine of this price, which I must say is pretty fantastic. There is this perception that mac is expensive, if you compare a 1k USD macbook air with something similar it is a fair price considering the quality of the trackpad, build, monitor and speakears, some people just forget that not everything is just about the electronics is also about the mechanical components of the machine. So according to the benchmarks, there is some thermal throttle, this means that the speed of the processor is reduced in order to reduce the temperature you can check more information in [This - URL](https://youtu.be/S-dOB326mlY?t=432) excelent video, the conclusion is that the performance is reduced in around 15% which let me tell you is not bad at all. So the benefits of getting a macbook pro (MBP) are not so much compared to the macbook air (MBA), the only benefit is the extra battery and a better cooling which apparently is good but the benefit not so much, so you can have the peace of never ever hearing a computer fan again in your house no matter the load, I think that is fantastic.
+The machines have been released and also the expectations are finally settling or maybe just adjusting. The benchmarks using cinebench are putting this machine in a very interesting place, the **single thread** is fantastic and the **multithread is great for a machine** of this price and size, which I must say is pretty fantastic. There is this perception that mac is expensive, if you compare a **1k USD macbook air** with something similar it is a good price considering the quality of the trackpad, build quality, monitor and speakers, some people just forget that not everything is just about the electronics is also about the mechanical components of the machine. 
+
+So according to the benchmarks, there is some thermal throttle, this means that the speed of the processor is reduced in order to reduce the temperature you can check more information in [this - URL](https://youtu.be/S-dOB326mlY?t=432) excelent video, the conclusion is that the performance is reduced in around 15% which let me tell you is not bad at all. So the benefits of getting a macbook pro (MBP) are not so much compared to the macbook air (MBA), the only benefit is the extra battery and a better cooling which apparently is good but the benefit not so much, so you can have the peace of never ever hearing a computer fan again in your house no matter the load, I think that is fantastic.
 
 ### M1 for developers. 
 
